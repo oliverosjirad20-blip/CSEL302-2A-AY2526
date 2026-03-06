@@ -1,0 +1,32 @@
+Row Labels,Count of Employee_ID,Sum of Salary
+Finance,42,996000
+Baguio,8,203000
+Cebu,2,25000
+Davao,8,197000
+Laguna,14,312000
+Manila,10,259000
+HR,50,1128000
+Baguio,9,223000
+Cebu,15,302000
+Davao,10,227000
+Laguna,7,166000
+Manila,9,210000
+IT,31,847000
+Baguio,8,221000
+Cebu,5,144000
+Davao,9,257000
+Laguna,5,114000
+Manila,4,111000
+Marketing,43,1061000
+Baguio,10,255000
+Cebu,9,219000
+Davao,7,108000
+Laguna,6,169000
+Manila,11,310000
+Operations,36,842000
+Baguio,11,281000
+Cebu,8,165000
+Davao,6,174000
+Laguna,4,112000
+Manila,7,110000
+Grand Total,202,4874000
